@@ -14,6 +14,6 @@
 
 8. one of mi projects is_ https://formulario2-user17job.netlify.app/form.html, i will share my portfolio 
 
-9. more about me?_ https://docs.google.com/document/d/1HZcDOJgxGknHks6LU9l6gV3dyJMYVU7YcBIKq2EOotc/edit?usp=sharing
+9. more about me? CV_ https://drive.google.com/file/d/1exGGI7mhksQ2q3VbhrCMxdm8Iyw9cp6Q/view?usp=sharing 
 
 10. I think I'm funny :)
