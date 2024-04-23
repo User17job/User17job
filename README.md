@@ -19,24 +19,32 @@ PRESENTATION
 
 
 Projects>
-<https://portfolio-user17job.netlify.app/>Portfolio
-<https://upyy-unprogramayyo-contador.netlify.app/>Counter
-<https://user17job2-movies.netlify.app/>MovieAdides
-<https://user17job.github.io/landing/>LandingPAge
-<https://user17job.github.io/ComoSerUnWebDeveloper/>EL DeveloperDoc
-<https://user17job.github.io/Encuesta/>Survey
-<https://user17job.github.io/Creayourweb/>Business web
-<https://user17job.github.io/Showveres/>bible verses
-<https://user17job.github.io/appdeTarea1/>Task app
+- <https://portfolio-user17job.netlify.app/>Portfolio
+  
+- <https://upyy-unprogramayyo-contador.netlify.app/>Counter
+  
+- <https://user17job2-movies.netlify.app/>MovieAdides
+  
+- <https://user17job.github.io/landing/>LandingPAge
+  
+- <https://user17job.github.io/ComoSerUnWebDeveloper/>EL DeveloperDoc
+  
+- <https://user17job.github.io/Encuesta/>Survey
+  
+- <https://user17job.github.io/Creayourweb/>Business web
+  
+- <https://user17job.github.io/Showveres/>bible verses
+  
+- <https://user17job.github.io/appdeTarea1/>Task app
 
 
 Stack>
->_____![image](https://github.com/User17job/User17job/assets/131003304/9b0af587-d7d9-4e85-a012-b001b03b6366)
->_____![image](https://github.com/User17job/User17job/assets/131003304/dd0c7c79-1f81-4d50-9442-db1871d57990)
->_____![image](https://github.com/User17job/User17job/assets/131003304/e1e3d69a-94c1-45f9-9d40-d4c29f4dd116)
->_____![image](https://github.com/User17job/User17job/assets/131003304/447efdd3-fbf8-410f-9b17-346388bbac87)
->_____![image](https://github.com/User17job/User17job/assets/131003304/970212b0-ed00-4f83-9780-ce3e1b561661)
->_____![image](https://github.com/User17job/User17job/assets/131003304/66b3ec61-7f53-44fa-bb9a-ddcf8f9dcde1)
+- >_____![image](https://github.com/User17job/User17job/assets/131003304/9b0af587-d7d9-4e85-a012-b001b03b6366)
+- >_____![image](https://github.com/User17job/User17job/assets/131003304/dd0c7c79-1f81-4d50-9442-db1871d57990)
+- >_____![image](https://github.com/User17job/User17job/assets/131003304/e1e3d69a-94c1-45f9-9d40-d4c29f4dd116)
+- >_____![image](https://github.com/User17job/User17job/assets/131003304/447efdd3-fbf8-410f-9b17-346388bbac87)
+- >_____![image](https://github.com/User17job/User17job/assets/131003304/970212b0-ed00-4f83-9780-ce3e1b561661)
+- >_____![image](https://github.com/User17job/User17job/assets/131003304/66b3ec61-7f53-44fa-bb9a-ddcf8f9dcde1)
 
 
 
@@ -49,10 +57,10 @@ Skills>
 
 
 MY TOOls>
->______![image](https://github.com/User17job/User17job/assets/131003304/71165059-eab3-4b31-bd17-6982e7ef067e)Visual Studio Code
->______![image](https://github.com/User17job/User17job/assets/131003304/2db10170-9bbf-477b-9286-7e59fde76e50)a, i responsive
->______https://freesets.vercel.app/tools
->______https://www.flaticon.es
+- >______![image](https://github.com/User17job/User17job/assets/131003304/71165059-eab3-4b31-bd17-6982e7ef067e)Visual Studio Code
+- >______![image](https://github.com/User17job/User17job/assets/131003304/2db10170-9bbf-477b-9286-7e59fde76e50)a, i responsive
+- >______https://freesets.vercel.app/tools
+- >______https://www.flaticon.es
 
 
 
