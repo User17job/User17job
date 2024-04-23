@@ -7,7 +7,7 @@ PRESENTATION
 5. I'm looking for_ grow up in this world 🗺 
 6. ask me about_ HTML,CSS,JS,JSON,BOOTSTRAP,Sass, and something else
 7. how to reach me_ user17job@gmail.com
-8. one of mi projects is_ (https://portfolio-user17job.netlify.app/)
+8. one of mi projects is_ (https://user17job.github.io/portfolio.user17job/)
 9. more about me? CV_ https://docs.google.com/document/d/1x5ByMjmq0UANOdijiM3IZfjk9P7xaIIrmSI_N_PouBM/edit?usp=sharing
 10. I think I'm funny :)
 
@@ -20,7 +20,7 @@ _______________________![image](https://github.com/User17job/User17job/assets/13
 
 
 Projects>
-- <https://portfolio-user17job.netlify.app/>Portfolio
+- <https://user17job.github.io/portfolio.user17job/>Portfolio
   
 - <https://upyy-unprogramayyo-contador.netlify.app/>Counter
   
