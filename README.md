@@ -13,7 +13,8 @@ PRESENTATION
 
 
 
-+++++++++++++++++++++++++++++![image](https://github.com/User17job/User17job/assets/131003304/191e79ef-8f7e-4f24-9381-aafb157ec040)++++++++++++++++++++++++++++
+
+_______________________![image](https://github.com/User17job/User17job/assets/131003304/191e79ef-8f7e-4f24-9381-aafb157ec040)
 
 
 
@@ -37,6 +38,9 @@ Projects>
   
 - <https://user17job.github.io/appdeTarea1/>Task app
 
+
+Certificate>
+https://www.freecodecamp.org/certification/User17job/responsive-web-design
 
 Stack>
 - >_____![image](https://github.com/User17job/User17job/assets/131003304/9b0af587-d7d9-4e85-a012-b001b03b6366)
