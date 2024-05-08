@@ -44,12 +44,7 @@ Certificate>
 https://www.freecodecamp.org/certification/User17job/responsive-web-design
 
 Stack>
-- >_____![image](https://github.com/User17job/User17job/assets/131003304/9b0af587-d7d9-4e85-a012-b001b03b6366)
-- >_____![image](https://github.com/User17job/User17job/assets/131003304/dd0c7c79-1f81-4d50-9442-db1871d57990)
-- >_____![image](https://github.com/User17job/User17job/assets/131003304/e1e3d69a-94c1-45f9-9d40-d4c29f4dd116)
-- >_____![image](https://github.com/User17job/User17job/assets/131003304/447efdd3-fbf8-410f-9b17-346388bbac87)
-- >_____![image](https://github.com/User17job/User17job/assets/131003304/970212b0-ed00-4f83-9780-ce3e1b561661)
-- >_____![image](https://github.com/User17job/User17job/assets/131003304/66b3ec61-7f53-44fa-bb9a-ddcf8f9dcde1)
+- >_____![image](https://github.com/User17job/User17job/assets/131003304/9b0af587-d7d9-4e85-a012-b001b03b6366) >_____![image](https://github.com/User17job/User17job/assets/131003304/dd0c7c79-1f81-4d50-9442-db1871d57990)>_____![image](https://github.com/User17job/User17job/assets/131003304/e1e3d69a-94c1-45f9-9d40-d4c29f4dd116)>_____![image](https://github.com/User17job/User17job/assets/131003304/447efdd3-fbf8-410f-9b17-346388bbac87)>_____![image](https://github.com/User17job/User17job/assets/131003304/970212b0-ed00-4f83-9780-ce3e1b561661)>_____![image](https://github.com/User17job/User17job/assets/131003304/66b3ec61-7f53-44fa-bb9a-ddcf8f9dcde1)
 
 
 
