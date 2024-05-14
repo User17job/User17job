@@ -24,7 +24,7 @@ Projects>
   
 - <https://upyy-unprogramayyo-contador.netlify.app/>Counter
   
-- <https://user17job2-movies.netlify.app/>MovieAdides
+- <https://user17job2-movies.netlify.app/>MovieAdeas
   
 - <https://user17job.github.io/landing/>LandingPAge
   
