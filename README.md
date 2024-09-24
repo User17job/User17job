@@ -1,14 +1,14 @@
-PRESENTATION 
+# PRESENTATION 
 
 1. I'm_ Ramphys
-2. front-end devoloper
-3. I'm currently working_ in my knowledge of front-end devolp
-4. I'm looking for_ a job freelance or normal
-5. I'm looking for_ grow up in this world 🗺 
-6. ask me about_ HTML,CSS,JS,JSON,BOOTSTRAP,Sass, and something else
+2. Web Devoloper
+3. I'm currently working_ in my knowledge of web development skills
+4. I'm looking for_ a job freelance or full time ⌚ 
+5. I'm looking for_ grow up in this world 🗺 ⚙ 
+6. ask me about_ HTML,CSS,JS,TS,pHp,MySQL,JSON,BOOTSTRAP,Sass, and something else
 7. how to reach me_ user17job@gmail.com
-8. one of mi projects is_ (https://user17job.github.io/portfolio.user17job/)
-9. more about me? CV_ https://docs.google.com/document/d/1x5ByMjmq0UANOdijiM3IZfjk9P7xaIIrmSI_N_PouBM/edit?usp=sharing
+8. my web portfolio_ (https://user17job.github.io/portfolio.user17job/)
+9. _________
 10. I think I'm funny :)
 
 
