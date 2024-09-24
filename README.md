@@ -57,7 +57,7 @@ Stack>
 
 
 
-Skills>
+Soft Skills>
 - Autodidact
 - Learn fast
 - Creativitiy
