@@ -15,32 +15,13 @@
 
 
 Projects>  
-- <https://upyy-unprogramayyo-contador.netlify.app/>Counter
-  
 - <https://user17job2-movies.netlify.app/>MovieAdeas
   
-- <https://user17job.github.io/landing/>LandingPAge
-  
-- <https://user17job.github.io/ComoSerUnWebDeveloper/>EL DeveloperDoc
-  
-- <https://user17job.github.io/Encuesta/>Survey
-  
-- <https://user17job.github.io/Creayourweb/>Business web
-  
-- <https://user17job.github.io/Showveres/>bible verses
-  
-- <https://user17job.github.io/appdeTarea1/>Task app
-
-- <https://poke-search-eight-cyan.vercel.app/>PokeSEARCH
+- <https://task-manager-seven-mauve.vercel.app/> Task manager app
 
 - <https://user17job.github.io/Squiva/>SQUIVA
 
 - <https://cashregister-one.vercel.app/>CAshREgister
-
-- <https://user17job.github.io/menu/>Menu a freelance work project
-  
-
-
 
 Certificates>
 https://www.freecodecamp.org/certification/User17job/responsive-web-design
