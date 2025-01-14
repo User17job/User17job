@@ -5,9 +5,9 @@
 3. I'm currently working_ in my knowledge of web development skills
 4. I'm looking for_ a job freelance or full time ⌚ 
 5. I'm looking for_ grow up in this world 🗺 ⚙ 
-6. ask me about_ HTML,CSS,JS,TS,pHp,MySQL,JSON,BOOTSTRAP,Sass, and something else
+6. ask me about_ Web development
 7. how to reach me_ user17job@gmail.com
-8. my web portfolio_ (https://user17job.github.io/portfolio.user17job/)
+8. my web portfolio_ (https://ramphystb.netlify.app/)
 9. _________
 10. I think I'm funny :)
 
