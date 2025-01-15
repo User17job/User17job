@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Ramphys T. B </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Ramphys T. B.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Que+la+paix+et+la+miséricorde+de+Dieu+soient+sur+vous..&hearts;++;Self-taught+Web+Developer,;Computer+Science+passionate,;Creativo,;Active+Learner/Researcher,;Amor+para+aprender+novo+Habilidades...<3"></a>
