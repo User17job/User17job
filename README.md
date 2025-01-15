@@ -12,7 +12,7 @@
 <br><br>
 
 - A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+- Creative designer 
 - Currently learning Web Development by Self
 - Personal website [link](https://ramphystb.netlify.app/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1rCQoSgbqf7kDAjG1gZxWWrW2Wnb4QA_J/view?usp=sharing)
@@ -26,6 +26,7 @@
     <summary><h2 style="display: inline-block">Technologies That I work with👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -45,7 +46,7 @@
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=user17job&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 
 Last edited on: 15/01/2025
